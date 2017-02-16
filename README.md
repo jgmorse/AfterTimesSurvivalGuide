@@ -1,6 +1,3 @@
-
-#AfterTimes Survival Guide
-
 Progress is a process.
 
 * [Credo](/credo.md)
