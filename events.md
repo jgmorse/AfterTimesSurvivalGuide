@@ -1,4 +1,4 @@
-#Events
+# Events
 *	Feb. 18th at 2:00  
 Climate March and Rally, starting in front of
 Federal Building in Ann Arbor and ending at the UMich Diag
