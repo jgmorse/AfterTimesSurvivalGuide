@@ -3,3 +3,4 @@ Progress is a process.
 * [Credo](/credo.md)
 * [Tools](/tools.md)
 * [Media](/media.md)
+* [Events](/events.md)
